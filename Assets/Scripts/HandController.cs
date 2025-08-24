@@ -10,6 +10,7 @@ public class HandController : MonoBehaviour
     private Animator handAnimator;
     private float _gripValue;
     private float _triggerValue;
+    
 
 
     void Update()
